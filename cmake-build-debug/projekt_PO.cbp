@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="projekt_PO"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projekt_PO">
+				<Option output="E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/projekt_PO.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 projekt_PO"/>
+					<CompileFile command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projekt_PO/fast">
+				<Option output="E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/projekt_PO.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/CLion/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 projekt_PO/fast"/>
+					<CompileFile command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;E:/.Studia/Semestr_3/PO/F1_Season/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Abstract/AerodynamicPart.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Abstract/Budget.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Abstract/Employee.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Abstract/Person.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Budgets/DevelopmentBudget.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Budgets/DevelopmentBudget.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Budgets/SalariesBudget.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Budgets/SalariesBudget.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Car.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Car.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/CarParts/Chassis.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/CarParts/Chassis.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/CarParts/Engine.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/CarParts/Engine.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/CarParts/FrontWing.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/CarParts/FrontWing.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/CarParts/RearWing.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/CarParts/RearWing.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Generic/Comparer.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Generic/Object.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Generic/ObjectsList.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Generic/ObjectsListSorter.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Generic/RandomValueGenerator.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/GrandPrix.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/GrandPrix.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Lists/DriversList.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Lists/DriversList.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Lists/GrandsPrixList.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Lists/GrandsPrixList.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Lists/TeamsList.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Lists/TeamsList.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/People/Driver.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/People/Driver.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/People/EngineMechanic.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/People/EngineMechanic.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/People/GrandsPrixEmployee.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/People/GrandsPrixEmployee.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/People/Mechanic.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/People/Mechanic.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Season.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Season.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Team.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Team.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Track.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/Classes/Track.h">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/main.cpp">
+			<Option target="projekt_PO"/>
+		</Unit>
+		<Unit filename="E:/.Studia/Semestr_3/PO/F1_Season/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

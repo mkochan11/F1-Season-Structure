@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(projekt_PO)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(projekt_PO main.cpp Classes/Season.cpp Classes/Season.h Classes/Lists/TeamsList.cpp Classes/Lists/TeamsList.h Classes/Team.cpp Classes/Team.h Classes/Car.cpp Classes/Car.h Classes/CarParts/FrontWing.cpp Classes/CarParts/FrontWing.h Classes/CarParts/RearWing.cpp Classes/CarParts/RearWing.h Classes/CarParts/Chassis.cpp Classes/CarParts/Chassis.h Classes/CarParts/Engine.cpp Classes/CarParts/Engine.h Classes/Abstract/Budget.h Classes/People/Driver.cpp Classes/People/Driver.h Classes/Track.cpp Classes/Track.h Classes/GrandPrix.cpp Classes/GrandPrix.h Classes/Lists/GrandsPrixList.cpp Classes/Lists/GrandsPrixList.h Classes/Lists/DriversList.cpp Classes/Lists/DriversList.h Classes/Abstract/Employee.h Classes/People/GrandsPrixEmployee.cpp Classes/People/GrandsPrixEmployee.h Classes/People/Mechanic.cpp Classes/People/Mechanic.h Classes/People/EngineMechanic.cpp Classes/People/EngineMechanic.h Classes/Generic/RandomValueGenerator.h Classes/Generic/Comparer.h Classes/Generic/ObjectsListSorter.h Classes/Generic/ObjectsList.h Classes/Generic/Object.h Classes/Abstract/AerodynamicPart.h Classes/Budgets/SalariesBudget.cpp Classes/Budgets/SalariesBudget.h Classes/Budgets/DevelopmentBudget.cpp Classes/Budgets/DevelopmentBudget.h Classes/Abstract/Person.h)
